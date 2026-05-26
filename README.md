@@ -1,4 +1,4 @@
-# Scientometric Data Mining and Visualization — VU DMSTI
+# Scientometric Data Mining and Visualization - VU DMSTI
 
 **Author:** Hlib Stepanenko  
 **Task:** Visualize VU DMSTI research staff on a 2D plane based on co-authored publications  
