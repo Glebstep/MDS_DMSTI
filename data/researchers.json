@@ -1,0 +1,434 @@
+[
+  {
+    "display_name": "Čypas Juozapas Rokas",
+    "firstname": "Juozapas Rokas",
+    "surname": "Čypas",
+    "group": "Blockchain and Quantum Technologies Group"
+  },
+  {
+    "display_name": "Filatovas Ernestas",
+    "firstname": "Ernestas",
+    "surname": "Filatovas",
+    "group": "Blockchain and Quantum Technologies Group"
+  },
+  {
+    "display_name": "Juodis Mindaugas",
+    "firstname": "Mindaugas",
+    "surname": "Juodis",
+    "group": "Blockchain and Quantum Technologies Group"
+  },
+  {
+    "display_name": "Lefterovici Andreea-Lulia",
+    "firstname": "Andreea-Lulia",
+    "surname": "Lefterovici",
+    "group": "Blockchain and Quantum Technologies Group"
+  },
+  {
+    "display_name": "Liaubaitė Ugnė",
+    "firstname": "Ugnė",
+    "surname": "Liaubaitė",
+    "group": "Blockchain and Quantum Technologies Group"
+  },
+  {
+    "display_name": "Marcozzi Marco",
+    "firstname": "Marco",
+    "surname": "Marcozzi",
+    "group": "Blockchain and Quantum Technologies Group"
+  },
+  {
+    "display_name": "Medvedev Viktor",
+    "firstname": "Viktor",
+    "surname": "Medvedev",
+    "group": "Blockchain and Quantum Technologies Group"
+  },
+  {
+    "display_name": "Moura de lima Glauco endrigo",
+    "firstname": "Glauco Endrigo",
+    "surname": "Moura de Lima",
+    "group": "Blockchain and Quantum Technologies Group"
+  },
+  {
+    "display_name": "Paulavičius Remigijus",
+    "firstname": "Remigijus",
+    "surname": "Paulavičius",
+    "group": "Blockchain and Quantum Technologies Group"
+  },
+  {
+    "display_name": "Stripinis Linas",
+    "firstname": "Linas",
+    "surname": "Stripinis",
+    "group": "Blockchain and Quantum Technologies Group"
+  },
+  {
+    "display_name": "Aidokas Linas",
+    "firstname": "Linas",
+    "surname": "Aidokas",
+    "group": "Artificial Intelligence Laboratory"
+  },
+  {
+    "display_name": "Marcinkevičius Virginijus",
+    "firstname": "Virginijus",
+    "surname": "Marcinkevičius",
+    "group": "Artificial Intelligence Laboratory"
+  },
+  {
+    "display_name": "Dagienė Valentina",
+    "firstname": "Valentina",
+    "surname": "Dagienė",
+    "group": "Education Systems Group"
+  },
+  {
+    "display_name": "Dolgopolovas Vladimiras",
+    "firstname": "Vladimiras",
+    "surname": "Dolgopolovas",
+    "group": "Education Systems Group"
+  },
+  {
+    "display_name": "Grigas Gintautas",
+    "firstname": "Gintautas",
+    "surname": "Grigas",
+    "group": "Education Systems Group"
+  },
+  {
+    "display_name": "Gudeika Dalius",
+    "firstname": "Dalius",
+    "surname": "Gudeika",
+    "group": "Education Systems Group"
+  },
+  {
+    "display_name": "Jevsikova Tatjana",
+    "firstname": "Tatjana",
+    "surname": "Jevsikova",
+    "group": "Education Systems Group"
+  },
+  {
+    "display_name": "Juškevičienė Anita",
+    "firstname": "Anita",
+    "surname": "Juškevičienė",
+    "group": "Education Systems Group"
+  },
+  {
+    "display_name": "Masiulionytė-Dagienė Vaida",
+    "firstname": "Vaida",
+    "surname": "Masiulionytė-Dagienė",
+    "group": "Education Systems Group"
+  },
+  {
+    "display_name": "Stumbrienė Dovilė",
+    "firstname": "Dovilė",
+    "surname": "Stumbrienė",
+    "group": "Education Systems Group"
+  },
+  {
+    "display_name": "Stupurienė Gabrielė",
+    "firstname": "Gabrielė",
+    "surname": "Stupurienė",
+    "group": "Education Systems Group"
+  },
+  {
+    "display_name": "Kepalas Mindaugas",
+    "firstname": "Mindaugas",
+    "surname": "Kepalas",
+    "group": "Global Optimization Group"
+  },
+  {
+    "display_name": "Lančinskas Algirdas",
+    "firstname": "Algirdas",
+    "surname": "Lančinskas",
+    "group": "Global Optimization Group"
+  },
+  {
+    "display_name": "Pupeikis Rimantas",
+    "firstname": "Rimantas",
+    "surname": "Pupeikis",
+    "group": "Global Optimization Group"
+  },
+  {
+    "display_name": "Žilinskas Antanas",
+    "firstname": "Antanas",
+    "surname": "Žilinskas",
+    "group": "Global Optimization Group"
+  },
+  {
+    "display_name": "Žilinskas Julius",
+    "firstname": "Julius",
+    "surname": "Žilinskas",
+    "group": "Global Optimization Group"
+  },
+  {
+    "display_name": "Belovas Igoris",
+    "firstname": "Igoris",
+    "surname": "Belovas",
+    "group": "Intelligent Technologies Research Group"
+  },
+  {
+    "display_name": "Plikynas Darius",
+    "firstname": "Darius",
+    "surname": "Plikynas",
+    "group": "Intelligent Technologies Research Group"
+  },
+  {
+    "display_name": "Sakalauskas Leonidas",
+    "firstname": "Leonidas",
+    "surname": "Sakalauskas",
+    "group": "Intelligent Technologies Research Group"
+  },
+  {
+    "display_name": "Steišūnas Stasys",
+    "firstname": "Stasys",
+    "surname": "Steišūnas",
+    "group": "Intelligent Technologies Research Group"
+  },
+  {
+    "display_name": "Alonderis Romas",
+    "firstname": "Romas",
+    "surname": "Alonderis",
+    "group": "Cyber-Social Systems Engineering Group"
+  },
+  {
+    "display_name": "Gudas Saulius",
+    "firstname": "Saulius",
+    "surname": "Gudas",
+    "group": "Cyber-Social Systems Engineering Group"
+  },
+  {
+    "display_name": "Jukna Stasys",
+    "firstname": "Stasys",
+    "surname": "Jukna",
+    "group": "Cyber-Social Systems Engineering Group"
+  },
+  {
+    "display_name": "Lupeikienė Audronė",
+    "firstname": "Audronė",
+    "surname": "Lupeikienė",
+    "group": "Cyber-Social Systems Engineering Group"
+  },
+  {
+    "display_name": "Maskeliūnas Saulius",
+    "firstname": "Saulius",
+    "surname": "Maskeliūnas",
+    "group": "Cyber-Social Systems Engineering Group"
+  },
+  {
+    "display_name": "Miliauskaitė Jolanta",
+    "firstname": "Jolanta",
+    "surname": "Miliauskaitė",
+    "group": "Cyber-Social Systems Engineering Group"
+  },
+  {
+    "display_name": "Paliulionienė Laima",
+    "firstname": "Laima",
+    "surname": "Paliulionienė",
+    "group": "Cyber-Social Systems Engineering Group"
+  },
+  {
+    "display_name": "Pliuškevičienė Aida",
+    "firstname": "Aida",
+    "surname": "Pliuškevičienė",
+    "group": "Cyber-Social Systems Engineering Group"
+  },
+  {
+    "display_name": "Slotkienė Asta",
+    "firstname": "Asta",
+    "surname": "Slotkienė",
+    "group": "Cyber-Social Systems Engineering Group"
+  },
+  {
+    "display_name": "Breskuvienė Dalia",
+    "firstname": "Dalia",
+    "surname": "Breskuvienė",
+    "group": "Cognitive Computing Group"
+  },
+  {
+    "display_name": "Dzemyda Gintautas",
+    "firstname": "Gintautas",
+    "surname": "Dzemyda",
+    "group": "Cognitive Computing Group"
+  },
+  {
+    "display_name": "Gipiškis Rokas",
+    "firstname": "Rokas",
+    "surname": "Gipiškis",
+    "group": "Cognitive Computing Group"
+  },
+  {
+    "display_name": "Karbauskaitė Rasa",
+    "firstname": "Rasa",
+    "surname": "Karbauskaitė",
+    "group": "Cognitive Computing Group"
+  },
+  {
+    "display_name": "Kurasova Olga",
+    "firstname": "Olga",
+    "surname": "Kurasova",
+    "group": "Cognitive Computing Group"
+  },
+  {
+    "display_name": "Melnik-Leroy Gerda Ana",
+    "firstname": "Gerda Ana",
+    "surname": "Melnik-Leroy",
+    "group": "Cognitive Computing Group"
+  },
+  {
+    "display_name": "Motiejauskas Modestas",
+    "firstname": "Modestas",
+    "surname": "Motiejauskas",
+    "group": "Cognitive Computing Group"
+  },
+  {
+    "display_name": "Sabaliauskas Martynas",
+    "firstname": "Martynas",
+    "surname": "Sabaliauskas",
+    "group": "Cognitive Computing Group"
+  },
+  {
+    "display_name": "Šubonienė Aušra",
+    "firstname": "Aušra",
+    "surname": "Šubonienė",
+    "group": "Cognitive Computing Group"
+  },
+  {
+    "display_name": "Čiginas Andrius",
+    "firstname": "Andrius",
+    "surname": "Čiginas",
+    "group": "Interdisciplinary Statistical Research Group"
+  },
+  {
+    "display_name": "Jakaitienė Audronė",
+    "firstname": "Audronė",
+    "surname": "Jakaitienė",
+    "group": "Interdisciplinary Statistical Research Group"
+  },
+  {
+    "display_name": "Kubilius Kęstutis",
+    "firstname": "Kęstutis",
+    "surname": "Kubilius",
+    "group": "Interdisciplinary Statistical Research Group"
+  },
+  {
+    "display_name": "Mačys Juozas Juvencijus",
+    "firstname": "Juozas Juvencijus",
+    "surname": "Mačys",
+    "group": "Interdisciplinary Statistical Research Group"
+  },
+  {
+    "display_name": "Mikulevičius Remigijus",
+    "firstname": "Remigijus",
+    "surname": "Mikulevičius",
+    "group": "Interdisciplinary Statistical Research Group"
+  },
+  {
+    "display_name": "Muhie Seid Kassaw",
+    "firstname": "Seid Kassaw",
+    "surname": "Muhie",
+    "group": "Interdisciplinary Statistical Research Group"
+  },
+  {
+    "display_name": "Norvidas Saulius",
+    "firstname": "Saulius",
+    "surname": "Norvidas",
+    "group": "Interdisciplinary Statistical Research Group"
+  },
+  {
+    "display_name": "Otera Daniele Ettore",
+    "firstname": "Daniele Ettore",
+    "surname": "Otera",
+    "group": "Interdisciplinary Statistical Research Group"
+  },
+  {
+    "display_name": "Ringienė Laura",
+    "firstname": "Laura",
+    "surname": "Ringienė",
+    "group": "Interdisciplinary Statistical Research Group"
+  },
+  {
+    "display_name": "Rudzkis Rimantas",
+    "firstname": "Rimantas",
+    "surname": "Rudzkis",
+    "group": "Interdisciplinary Statistical Research Group"
+  },
+  {
+    "display_name": "Sapagovas Mifodijus",
+    "firstname": "Mifodijus",
+    "surname": "Sapagovas",
+    "group": "Interdisciplinary Statistical Research Group"
+  },
+  {
+    "display_name": "Sunklodas Jonas Kazys",
+    "firstname": "Jonas Kazys",
+    "surname": "Sunklodas",
+    "group": "Interdisciplinary Statistical Research Group"
+  },
+  {
+    "display_name": "Vaičiulis Marijus",
+    "firstname": "Marijus",
+    "surname": "Vaičiulis",
+    "group": "Interdisciplinary Statistical Research Group"
+  },
+  {
+    "display_name": "Žvirblis Tadas",
+    "firstname": "Tadas",
+    "surname": "Žvirblis",
+    "group": "Interdisciplinary Statistical Research Group"
+  },
+  {
+    "display_name": "Bernatavičienė Jolita",
+    "firstname": "Jolita",
+    "surname": "Bernatavičienė",
+    "group": "Image and Signal Analysis Group"
+  },
+  {
+    "display_name": "Bukolovaitė Nika",
+    "firstname": "Nika",
+    "surname": "Bukolovaitė",
+    "group": "Image and Signal Analysis Group"
+  },
+  {
+    "display_name": "Kazlauskas Kazys",
+    "firstname": "Kazys",
+    "surname": "Kazlauskas",
+    "group": "Image and Signal Analysis Group"
+  },
+  {
+    "display_name": "Korvel Gražina",
+    "firstname": "Gražina",
+    "surname": "Korvel",
+    "group": "Image and Signal Analysis Group"
+  },
+  {
+    "display_name": "Navickas Gediminas",
+    "firstname": "Gediminas",
+    "surname": "Navickas",
+    "group": "Image and Signal Analysis Group"
+  },
+  {
+    "display_name": "Pizzi Michele",
+    "firstname": "Michele",
+    "surname": "Pizzi",
+    "group": "Image and Signal Analysis Group"
+  },
+  {
+    "display_name": "Skirmantaitė Gabrielė",
+    "firstname": "Gabrielė",
+    "surname": "Skirmantaitė",
+    "group": "Image and Signal Analysis Group"
+  },
+  {
+    "display_name": "Tamulevičius Gintautas",
+    "firstname": "Gintautas",
+    "surname": "Tamulevičius",
+    "group": "Image and Signal Analysis Group"
+  },
+  {
+    "display_name": "Tolomanovas Steponas",
+    "firstname": "Steponas",
+    "surname": "Tolomanovas",
+    "group": "Image and Signal Analysis Group"
+  },
+  {
+    "display_name": "Treigys Povilas",
+    "firstname": "Povilas",
+    "surname": "Treigys",
+    "group": "Image and Signal Analysis Group"
+  }
+]
